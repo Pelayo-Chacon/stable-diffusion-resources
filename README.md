@@ -1,6 +1,8 @@
-# A MORON'S GUIDE TO TEXTUAL INVERSION
+# The Textual Inversion Library
 
 Some anons were requesting a space they could host a textual inversion library, sepearate from the one maintained by Hugging Face, so here it is. Feel free to use the wiki to post any models that you've worked up.
+
+# A MORON'S GUIDE TO TEXTUAL INVERSION
 
 This is the new hotness in the world of AI generated imagery. Textual inversion allows you to train data sets of specific styles or things, which will then be tied to a specific word. It does this without affecting how the model file works as a whole, allowing you to inject keyword shortcuts. If that doesn't excite you, let me simply by saying - this lets you tie a keyword to specific people, things, places, or art styles in Stable Diffusion that you otherwise would be unable to directly reference. It's a game changer.
 
