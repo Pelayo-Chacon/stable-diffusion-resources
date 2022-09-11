@@ -1,5 +1,7 @@
 # A MORON'S GUIDE TO TEXTUAL INVERSION
 
+Some anons were requesting a space they could host a textual inversion library, sepearate from the one maintained by Hugging Face, so here it is. Feel free to use the wiki to post any models that you've worked up.
+
 This is the new hotness in the world of AI generated imagery. Textual inversion allows you to train data sets of specific styles or things, which will then be tied to a specific word. It does this without affecting how the model file works as a whole, allowing you to inject keyword shortcuts. If that doesn't excite you, let me simply by saying - this lets you tie a keyword to specific people, things, places, or art styles in Stable Diffusion that you otherwise would be unable to directly reference. It's a game changer.
 
 I was going to integrate this into my [main setup guide](https://rentry.org/zfawb) for Stable Diffusion, but it has enough moving parts that I think it's worth going into on it's own, namely in the fact that a new folder needs to be created in the root directory of Voldy's. With that being said, if you haven't already set Stable Diffusion up, you'll want to do that before consulting this guide.
