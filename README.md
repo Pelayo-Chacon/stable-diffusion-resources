@@ -82,7 +82,7 @@ Once you launch Voldy’s, I would recommend setting your output folders (unless
 
 **Step 2:** Go to the `Settings` tab of the UI and assign your new file locations accordingly. Once you’ve assigned the locations, make sure to hit `Apply Settings` at the top of the page.
 
-I’d also recommend enabling the following option, which will create subfolders for each new prompt you try. There are other options available that I go through in my [guide on how to use Voldy’s](https://rentry.org/affxl).
+I’d also recommend enabling the following option, which will create subfolders for each new prompt you try. There are other options available that I go through in my [guide on how to use Voldy’s](https://github.com/Pelayo-Chacon/stable-diffusion-resources/blob/main/USER-GUIDE.md).
 
 - [x]  When writing images/grids, create a directory with name derived from the prompt
 
