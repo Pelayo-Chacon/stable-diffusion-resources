@@ -76,9 +76,9 @@ call webui.bat
 
 Once you launch Voldy’s, I would recommend setting your output folders (unless you’d prefer they output within your root directory). I was going to go hands off for this portion, but I'm feeling benevolent so I created a `.bat` to make this easier.
 
-**Step 1:** Download the file below, and move it to wherever you want your images to output to. Run it, and it will create the appropriate sub-folders. You can delete the `.bat` after this is complete.
+**Step 1:** Download the file below, unzip it, and move it to wherever you want your images to output to. Run it, and it will create the appropriate sub-folders. You can delete the `.bat` after this is complete.
 
- - [Hand holding directory assignment .bat for friends](https://file.io/9WCbCrKdYHJV) - LINK DEAD, I WILL UPDATE SOON
+- [directory-folder-creation.zip](https://github.com/Pelayo-Chacon/stable-diffusion-resources/files/9572106/directory-folder-creation.zip)
 
 **Step 2:** Go to the `Settings` tab of the UI and assign your new file locations accordingly. Once you’ve assigned the locations, make sure to hit `Apply Settings` at the top of the page.
 
