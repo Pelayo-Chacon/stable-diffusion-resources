@@ -7,6 +7,7 @@ I put these resouces together to assist friends of mine in setting up Voldy's St
 - [Guide to Textual Inversion](https://github.com/Pelayo-Chacon/stable-diffusion-resources/blob/main/TEXTUAL-INVERSION.md)
 - [Guide to Alternative Upscaling](https://github.com/Pelayo-Chacon/stable-diffusion-resources/blob/main/ALTERNATIVE-UPSCALE.md)
 - [Prompt Crafting and Other Resources](https://github.com/Pelayo-Chacon/stable-diffusion-resources/blob/main/RESOURCES.md)
+- [Textual Inversion Model Library](https://github.com/Pelayo-Chacon/stable-diffusion-resources/blob/main/TEXTUAL-INVERSION-LIBRARY.md)
 
 # A Moron's Guide to Setup Voly's Stable Diffusion GUI
 
