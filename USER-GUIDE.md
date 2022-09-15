@@ -1,4 +1,4 @@
-# A MORON'S GUIDE TO STABLE DIFFUSION
+# A Moron's Guide to Stable Diffusion
 
 The following is a guide to Stable Diffusion, with specific information as to how Voldy’s UI works. If you're using a different version of Stable Diffusion, I'd recommend following [this guide to switch over to Voldy's](https://github.com/Pelayo-Chacon/stable-diffusion-resources/blob/main/README.md). With that being said, a lot of the information contained within should still be helpful regardless of the distribution you're using. This is all based on my personal experience and the information I’ve been able to gather through it. If there’s anything I didn’t talk about that you’re curious to look into, [Voldy’s hosts a feature showcase](https://github.com/AUTOMATIC1111/stable-diffusion-webui-feature-showcase).
 
