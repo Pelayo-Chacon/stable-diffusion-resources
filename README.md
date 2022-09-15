@@ -12,8 +12,10 @@ I put these resouces together to assist friends of mine in setting up Voldy's St
 
 So you want to take the dive into Stable Diffusion and the wide world of AI generated art, but you don’t know where to start. This is a guide to set up what I believe to be the best UI based distribution currently available. It’s frequently updated with features from various distributions and it’s free of the Patreon begging, Discord integrating, and potential malware bull shit that plagues many mainstream distributions. Going forward, I’m going to refer to this version as Voldemort’s, or Voldy’s for short. You can [inspect the code for Voldy’s here](https://github.com/AUTOMATIC1111/stable-diffusion-webui). Stable Diffusion only works well with a modern NVidia graphics card. If you’re running AMD or an old card, you’re probably shit out of luck.
 
-## Download and install the following before you begin the setup process:
-- [Python](https://www.python.org/downloads/release/python-3106/) - During installation, you'll see a note asking if you’d like to add Python to your PCs PATH. You do.
+## Pre-Setup:
+Download and install the following. During the Python installation, you'll see a note asking if you’d like to add Python to your PCs PATH. You do. If you do not install the specific versions linked here, you run the risk of Voldy's not working correctly, or at all.
+
+- [Python](https://www.python.org/downloads/release/python-3106/)
 - [Git](https://git-scm.com/download/win)
 
 ## Primary Setup
