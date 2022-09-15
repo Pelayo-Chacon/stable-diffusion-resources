@@ -14,7 +14,7 @@ So you want to take the dive into Stable Diffusion and the wide world of AI gene
 
 ## Download and install the following before you begin the setup process:
 - [Python](https://www.python.org/downloads/release/python-3106/) - During installation, you'll see a note asking if you’d like to add Python to your PCs PATH. You do.
-- [Git](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [Git]([https://github.com/AUTOMATIC1111/stable-diffusion-webui](https://git-scm.com/download/win)
 
 ## Primary Setup
 
