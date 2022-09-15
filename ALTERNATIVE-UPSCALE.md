@@ -24,7 +24,7 @@ This method will yield consistently cohesive, high quality, results. As with any
 
 As a result of the way Stable Diffusion handles seeds, the same seed on a `text2img` output at 512x512 will be entirely different from its output at 512x768. The same holds true for `img2img`. Because of the change to a larger width/height, there is currently no way to ensure a flawless duplication with this method. Your best bet is to run batches at lower steps and find the one that most closely fits your desired output, then rerun it at high steps. This appear to be the unavoidable tradeoff for the visibly increased fine detail this method provides.
 
-IMAGES TO BE READDED SOON
+# IMAGES TO BE READDED SOON
 
 Original Seed | Random Seed 1 | Random Seed 2 | Random Seed 3
 :----: | :----: | :----: | :----:
