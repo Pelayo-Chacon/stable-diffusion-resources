@@ -2,7 +2,7 @@
 
 I put these resouces together to assist friends of mine in setting up Voldy's Stable Diffusion GUI. Hopefully sharing them here assists a few others in both setting up and understanding this exciting, and rapidly developing, technology. If there's anything not touched on here that you're interested in learning about, let me know and I'll attempt a guide to the best of my ability. Similarly, if there is any knowledge that you're interested in sharing, send it my way and I'll be happy to integrate it into this resource center.
 
-# A Moron's Guide to Voly's Stable Diffusion GUI
+# A Moron's Guide to Setup Voly's Stable Diffusion GUI
 
 So you want to take the dive into Stable Diffusion and the wide world of AI generated art, but you don’t know where to start. This is a guide to set up what I believe to be the best UI based distribution currently available. It’s frequently updated with features from various distributions and it’s free of the Patreon begging, Discord integrating, and potential malware bull shit that plagues many mainstream distributions. Going forward, I’m going to refer to this version as Voldemort’s, or Voldy’s for short. You can [inspect the code for Voldy’s here](https://github.com/AUTOMATIC1111/stable-diffusion-webui). Stable Diffusion only works well with a modern NVidia graphics card. If you’re running AMD or an old card, you’re probably shit out of luck.
 
