@@ -20,7 +20,7 @@ This is the new hotness in the world of AI generated imagery. Textual inversion 
 
 **Step 8:** Launch Voldy's and make sure your newly added model works. Pay attention to the name of the `.bin`, that's going to be the keyword that prompts Stable Diffusion to use it. In my case, I added `<line-art>` to my prompt of a frog, and it gave me this. Do the same methodology for any model that you want to add.
 
--> ![Line Art Frog](https://i.imgur.com/mVtJBET.png) <-
+![Line Art Frog](https://i.imgur.com/mVtJBET.png)
 
 ## But I want to make my own...
 
